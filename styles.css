@@ -18,7 +18,7 @@ body{
     animation: background 5s infinite;
 }
 .cont{
-    margin: 6em auto;
+    margin: 5em auto;
     display: grid;
     width: 63em;
     height: 38em;
