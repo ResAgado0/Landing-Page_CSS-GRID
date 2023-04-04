@@ -119,7 +119,7 @@ body{
 .attribution a { 
     color: hsl(0, 100%, 50%); 
 }
-@media screen and (max-width:375px){
+@media screen and (max-width:425px){
     .cont{
         display: flex;
         flex-direction: column;
