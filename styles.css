@@ -110,6 +110,15 @@ body{
 .card.jeanette .no-bold, .card.kira .no-bold{
     color: hsla(210, 19%, 58%, 0.897);
 }
+.attribution { 
+    font-size: 13px;
+    text-align: center;
+    color: hsl(0, 0%, 100%);
+    margin: .6em;
+}
+.attribution a { 
+    color: hsl(0, 100%, 50%); 
+}
 @media screen and (max-width:375px){
     .cont{
         display: flex;
