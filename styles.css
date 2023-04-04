@@ -115,6 +115,7 @@ body{
     text-align: center;
     color: hsl(0, 0%, 100%);
     margin: .6em auto;
+    padding: .9em;
 }
 .attribution a { 
     color: hsl(0, 100%, 50%); 
